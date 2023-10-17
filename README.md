@@ -91,3 +91,21 @@ Evaluation
 Dashboard - Tableau
 -------------
 [Ecommerce Dashboard - RFM Segmentation](https://public.tableau.com/views/EcommerceDashboard-RFMSegmentation/ECOMMERCE?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+Project Organization
+------------
+
+    ├── README.md          <- business understanding
+    ├── data
+    │   ├── additional     <- rfm guide (segment, activity, actionable)
+    │   ├── model          <- benchmark & tuning metrics, rfm segmentation result
+    |   ├── processed      <- final data for analysis & modeling
+    │   └── raw            <- original data
+    │
+    ├── img                <- images, e.g. logo
+    │                         
+    ├── notebooks          <- Jupyter notebooks with naming convention: a number (for ordering)
+    │                         and a short `-` delimited description, e.g. `1-data-preparation`
+    │
+    └── requirements.txt   <- requirements file for reproducing the analysis environment, e.g.
+                              generated with `pip freeze > requirements.txt`
