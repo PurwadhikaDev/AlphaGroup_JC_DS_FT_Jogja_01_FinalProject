@@ -90,4 +90,4 @@ Evaluation
 
 Dashboard - Tableau
 -------------
-[Ecommerce Dashboard - RFM Segmentation](https://github.com/nheryanto](https://public.tableau.com/views/EcommerceDashboard-RFMSegmentation/ECOMMERCE?:language=en-US&:display_count=n&:origin=viz_share_link)https://public.tableau.com/views/EcommerceDashboard-RFMSegmentation/ECOMMERCE?:language=en-US&:display_count=n&:origin=viz_share_link)
+[Ecommerce Dashboard - RFM Segmentation](https://public.tableau.com/views/EcommerceDashboard-RFMSegmentation/ECOMMERCE?:language=en-US&:display_count=n&:origin=viz_share_link)
